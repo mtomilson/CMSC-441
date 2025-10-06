@@ -1,5 +1,5 @@
 ## How To Run
-gcc -o run gcd.cpp <br> ./run
+g++ -o run gcd.cpp <br> ./run
 <br>
 ## What it does: 
 Implemented three different algorithms to calculate the greatest common factor of two given numbers and calculates the <br>
@@ -12,3 +12,4 @@ Euclid's Algorithm, Prime Factorization algorithm, and an Iterative algorithm
 Euclid's: O(log n) <br>
 Prime Factorization: O(√n) <br>
 Iterative Algorihtm: O(n)
+
